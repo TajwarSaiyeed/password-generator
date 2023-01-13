@@ -1,10 +1,3 @@
-
-```
-password-generator
-├─ index.html
-└─ style.css
-
-```
 ```
 password-generator
 ├─ index.html
@@ -12,4 +5,4 @@ password-generator
 ├─ script.js
 └─ style.css
 
-```# password-generator
+```
